@@ -1,0 +1,10 @@
+ {
+  "name": "test",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "frame": true,
+    "width": 1024,
+    "height": 768
+  }
+ }
